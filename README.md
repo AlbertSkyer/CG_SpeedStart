@@ -2,6 +2,7 @@
 You can download it for your games101 in vscode
 
 图形学框架搭建最速传说(vscode+opencv+eigen+c++)
+视频地址：https://www.bilibili.com/video/BV15u411G7ki/?vd_source=62fed1f0786fcc8b683f5a061d9159f0
 
 # 摘要：
 	四种文件：
